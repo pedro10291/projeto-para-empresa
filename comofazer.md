@@ -1,48 +1,24 @@
-# 🚀 Como Criar Seu App Corporativo Sem Ser Programador
-
-Mesmo sem entender muito de programação, você consegue fazer esse aplicativo dar certo — desde que siga uma abordagem estratégica e progressiva.
-
----
-
-## 🧠 Estratégia para Criar o App Sem Ajuda Técnica
+## 🧠 Como Criar o App Sem Ser Programador
 
 ### 1. Use Plataformas No-Code
-Ferramentas que permitem criar apps sem escrever código:
-- [Glide](https://www.glideapps.com): transforma planilhas em apps funcionais.
-- [Bubble](https://bubble.io): apps web com lógica avançada.
-- [Thunkable](https://thunkable.com): ideal para apps mobile.
-
-Essas plataformas têm tutoriais e comunidades que ajudam bastante.
-
----
+- [Glide](https://www.glideapps.com)
+- [Bubble](https://bubble.io)
+- [Thunkable](https://thunkable.com)
 
 ### 2. Comece Pequeno
-- Crie uma versão simples com cadastro de "O's", status e usuários.
-- Teste com um setor da empresa antes de expandir.
-- Adicione funcionalidades aos poucos (ex: expedição, offline, relatórios).
-
----
+- Versão simples com cadastro de "O's"
+- Teste com um setor antes de expandir
 
 ### 3. Aprenda o Básico com Foco
-Cursos gratuitos recomendados:
-- [Curso em Vídeo – HTML, CSS, JS](https://www.cursoemvideo.com)
+- [Curso em Vídeo](https://www.cursoemvideo.com)
 - [freeCodeCamp](https://www.freecodecamp.org)
 
-Foque em entender o que você precisa para seu app, não tudo de programação.
-
----
-
 ### 4. Documente Tudo
-- Use o GitHub para guardar seu progresso.
-- Crie um README com o plano, fluxo e funcionalidades.
-- Isso te ajuda a manter o foco e facilita se quiser ajuda no futuro.
-
----
+- Use GitHub para guardar progresso
+- Crie README com plano e funcionalidades
 
 ### 5. Use Inteligência Artificial como Aliada
-- Continue conversando com o Copilot.
-- Receba ajuda para escrever código, corrigir erros, planejar etapas e criar protótipos.
+- Converse com Copilot para ajuda técnica
+- Receba suporte para código, lógica e protótipos
 
 ---
-
-## ✅ Você Não Prec
