@@ -13,6 +13,8 @@ Este projeto tem como objetivo criar um aplicativo simples, intuitivo e funciona
 - [Tempo Estimado de Desenvolvimento](#tempo-estimado-de-desenvolvimento)
 - [Vantagens para a Empresa](#vantagens-para-a-empresa)
 - [Funcionalidade Offline](#funcionalidade-offline)
+- [Desafios Atuais na Empresa](#desafios-atuais-na-empresa)
+- [Funcionalidades Sugeridas para Resolver os Desafios](#funcionalidades-sugeridas-para-resolver-os-desafios)
 - [Como Criar o App Sem Ser Programador](#como-criar-o-app-sem-ser-programador)
 
 ---
@@ -20,7 +22,7 @@ Este projeto tem como objetivo criar um aplicativo simples, intuitivo e funciona
 ## 🔄 Fluxo de Trabalho
 
 ### 1. Planejamento
-- Cadastro da "O" pelo líder de planejamento.
+- Cadastro da "O's" pelo líder de planejamento.
 - Definição de máquina, prazo, tipo de produção.
 
 ### 2. Estoque
@@ -32,7 +34,7 @@ Este projeto tem como objetivo criar um aplicativo simples, intuitivo e funciona
 - Atualização de status: em andamento, finalizado.
 
 ### 4. Expedição
-- Recebimento da "O" finalizada.
+- Recebimento da "O's" finalizada.
 - Atualização de status: expedido, aguardando transporte, armazenado.
 
 ---
@@ -126,29 +128,40 @@ Campos principais:
 
 ---
 
-## 🧠 Como Criar o App Sem Ser Programador
+## 🚧 Desafios Atuais na Empresa
 
-### 1. Use Plataformas No-Code
-- [Glide](https://www.glideapps.com)
-- [Bubble](https://bubble.io)
-- [Thunkable](https://thunkable.com)
+Apesar da estrutura existente, alguns gargalos operacionais impactam a eficiência do fluxo de produção:
 
-### 2. Comece Pequeno
-- Versão simples com cadastro de "O's"
-- Teste com um setor antes de expandir
+### 🔻 Materiais Insuficientes
+- Falta recorrente de insumos como papel e saquinhos para pastas.
+- Planejador precisa buscar fisicamente os materiais, o que consome tempo.
+- Erros frequentes na entrega de materiais solicitados (ex.: papel vem, mas saquinhos não).
 
-### 3. Aprenda o Básico com Foco
-- [Curso em Vídeo](https://www.cursoemvideo.com)
-- [freeCodeCamp](https://www.freecodecamp.org)
+### 🧍‍♂️ Mão de Obra 100% Manual
+- Ausência de automação no processo de solicitação e entrega de insumos.
+- Dependência de deslocamento físico entre setores para confirmar disponibilidade.
 
-### 4. Documente Tudo
-- Use GitHub para guardar progresso
-- Crie README com plano e funcionalidades
-
-### 5. Use Inteligência Artificial como Aliada
-- Converse com Copilot para ajuda técnica
-- Receba suporte para código, lógica e protótipos
+### 📅 Expedição Manual
+- Liberação de materiais é registrada manualmente no Google Agenda.
+- Falta de integração entre produção e expedição gera atrasos e retrabalho.
 
 ---
 
-Pronto para transformar sua ideia em realidade! 💡
+## 🛠️ Funcionalidades Sugeridas para Resolver os Desafios
+
+### 📦 Gestão de Insumos
+- Sistema de checklist por "O's" com itens obrigatórios (papel, saquinhos, etc.)
+- Notificações automáticas para o setor de estoque ao cadastrar uma nova "O's"
+- Alerta de pendência caso algum item não seja entregue
+
+### 🤖 Redução da Mão de Obra Manual
+- Interface para solicitação digital de materiais
+- Atualização de status em tempo real entre setores
+- Histórico de solicitações e entregas para rastreabilidade
+
+### 📆 Expedição Integrada
+- Painel de expedição com status de cada "O's"
+- Botão de "liberar para transporte" que atualiza automaticamente o sistema
+- Integração com calendário interno (Google Calendar ou similar) para agendamento automático
+
+---
