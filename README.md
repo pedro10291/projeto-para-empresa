@@ -110,6 +110,8 @@ Campos principais:
 - Agilidade na tomada de decisões
 - Redução do uso de papel
 - Maior controle sobre insumos e prazos
+- Reduz espera de tempo de máquina
+- Quantidade correta de papel, assim reduzira risco de umidade.
 
 ---
 
